@@ -1,6 +1,6 @@
 NAME = compiled-app
 
-SRC = hello.c
+SRC = app/hello.c
 
 all: $(NAME)
 
